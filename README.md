@@ -7,5 +7,7 @@ oracle-brute -ip 10.1.20.6 -sid XE -userdict username.txt -passdict password.txt
 
 
 成功的账号密码会保存到result.txt文档中
-![image](https://github.com/user-attachments/assets/be662642-c0d3-46f0-9b56-33f2fcf3d500)
+
+![image](https://github.com/user-attachments/assets/b29c2a92-ab58-4543-8dcb-abe569304249)
+
 
